@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">La Bete</string>
+    <string name="btnChoixB_text">Choix B</string>
+    <string name="btnChoixA_text">Choix A</string>
+    <string name="btnChoixC_text">Choix C</string>
+    <string name="btnChoixD_text">Choix D</string>
+    <string name="options">OPTIONS</string>
+    <string name="retour">Retour</string>
+    <string name="inventaire">INVENTAIRE</string>
+    <string name="sons_on">Sons : ON</string>
+    <string name="musique_on">Musique : ON</string>
+    <string name="quitter_le_jeu">Quitter le jeu</string>
+    <string name="leave_game">Leave Game</string>
+    <string name="sfx">SFX</string>
+    <string name="music">Music</string>
+
+    <string name="welcome10">Commencer le chapitre 1</string>
+    <string name="welcome11">Reprendre le chapitre 1</string>
+    <string name="welcome20">Commencer le chapitre 2</string>
+    <string name="welcome21">Reprendre le chapitre 2</string>
+
+    <string name="prefName">preferences</string>
+    <string name="prefMusic">musicEnabled</string>
+    <string name="prefSfx">sfxEnabled</string>
+    <string name="prefScene">sceneNum</string>
+    <string name="prefChapter">chapterNum</string>
+</resources>

@@ -1,0 +1,1 @@
+{"sucess":true,"message":"voici les vols","resultat":{"nbVol":2,"vols":[{"id":"1","ville_depart":"Paris","ville_destination":"Marseille","date_depart":"2020-04-28 15:00:00","nb_heures_vol":"3","prix":"150"},{"id":"2","ville_depart":"Lyon","ville_destination":"Toulouse","date_depart":"2020-04-28 15:00:00","nb_heures_vol":"3","prix":"150"}]}}

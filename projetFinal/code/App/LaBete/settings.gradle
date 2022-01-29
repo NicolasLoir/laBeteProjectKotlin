@@ -1,0 +1,2 @@
+rootProject.name='La Bete'
+include ':app'
